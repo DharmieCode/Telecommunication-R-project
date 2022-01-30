@@ -4,6 +4,8 @@ A telecommunications provider has segmented its customer base by service usage p
 I performed data visualization and used classification methods like Logistic regression, Decision Tree, and Naive Bayes.
 
 •	Time variable: tenure (month with services)
+
 •	Status variable: churn (0 = No, 1 = Yes)
+
 •	Covariates: age, marital, address, employ, retire, gender, reside, and custcat
 
