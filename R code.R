@@ -2,7 +2,7 @@
 library(foreign)
 library(ggplot2)
 
-TeleCustomer <- read.spss("PHMS641_Q17_TeleCustomer.sav", use.value.labels = TRUE, to.data.frame = TRUE)
+TeleCustomer <- read.spss("TeleCustomer.sav", use.value.labels = TRUE, to.data.frame = TRUE)
 View(TeleCustomer)
 # attach
 attach(TeleCustomer)
